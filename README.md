@@ -1,0 +1,1 @@
+These codes are my practice exercises in learning LLM Engineering through the course 'LLM Engineering' by Ed Donner (https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)
