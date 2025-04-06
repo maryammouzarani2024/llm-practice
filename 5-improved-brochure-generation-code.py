@@ -122,7 +122,6 @@ def get_brochure_user_prompt(company_name, url):
     return user_prompt
 
 #revised create_brochure function:
-
 def stream_brochure(company_name, url):
     stream = openai.chat.completions.create(
         model=MODEL,
