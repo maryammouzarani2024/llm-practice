@@ -1,12 +1,8 @@
 
 import os
 import requests
-from bs4 import BeautifulSoup
-from typing import List
 from dotenv import load_dotenv
 import openai
-import google.generativeai
-import anthropic
 
 
 load_dotenv(override=True)
