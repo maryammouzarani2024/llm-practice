@@ -21,3 +21,7 @@ instance/
 
 codeAnalysis
 optimized
+week5
+*.png
+*.pkl
+*.jsonl
