@@ -1,3 +1,5 @@
+#gitignore
+.gitignore
 # Python bytecode
 __pycache__/
 *.py[cod]
@@ -25,3 +27,5 @@ week5
 *.png
 *.pkl
 *.jsonl
+
+vector_db
